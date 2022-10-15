@@ -16,3 +16,9 @@ This case study is the Capstone Project of Google Data Analytics Professional Ce
 * Data wrangling
 * Exploratory Data Analysis
 
+## PROJECT #3: [NoShowAppointment](https://github.com/DataStance1/NoShowAppointment)
+A project done with python to analyze 100k medical data from Brazil to gain insights into some factors that contribute patients keeping to a medical appointment or not.
+* Introduction
+* Data Wrangling
+* Exploratory Data Analysis
+* Conclusions
