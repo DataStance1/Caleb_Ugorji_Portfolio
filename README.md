@@ -22,3 +22,10 @@ A project done with python to analyze 100k medical data from Brazil to gain insi
 * Data Wrangling
 * Exploratory Data Analysis
 * Conclusions
+
+## PROJECT #4: [DigDataProject](https://github.com/DataStance1/DigDataProject)
+Analysis done with SQL to gain insight on the  population of countries in the world.
+* Creating tables
+* Joining tables
+* Performing aggragation
+* Visulization with python
