@@ -1,4 +1,4 @@
-# Caleb_portfolio
+# Caleb_Ugorji_Portfolio
 My Data Analyst Portfolio
 
 ## PROJECT #1: [GoogleDataAnalyticsCertificateCapstoneProject](https://github.com/DataStance1/GoogleCertCapstoneProject)
@@ -8,7 +8,7 @@ This case study is the Capstone Project of Google Data Analytics Professional Ce
 **Title**: Bellabeat Case Study
 **Author**: Caleb Ugorji
 **Date**: 14 July, 2022
-![](https://github.com/DataStance1/Caleb_portfolio/blob/main/images/Bellabeat-900x0.png)
+![](/images/Bellabeat-900x0.png)
 
 ## PROJECT #2:  [WeRateDogs_Twitter](https://github.com/DataStance1/WeRateDogs_Twitter)
 * Analyzing data from WeRateDogs twitter data using python to find interesting insights.
@@ -18,7 +18,7 @@ This case study is the Capstone Project of Google Data Analytics Professional Ce
 * Data wrangling
 * Exploratory Data Analysis
 
-![](https://github.com/DataStance1/Caleb_portfolio/blob/main/images/dog%20picture.jpeg)
+![](/images/dog%20picture.jpeg)
 
 ## PROJECT #3: [NoShowAppointment](https://github.com/DataStance1/NoShowAppointment)
 A project done with python to analyze 100k medical data from Brazil to gain insights into some factors that contribute patients keeping to a medical appointment or not.
@@ -27,7 +27,7 @@ A project done with python to analyze 100k medical data from Brazil to gain insi
 * Exploratory Data Analysis
 * Conclusions
 
-![](https://github.com/DataStance1/Caleb_portfolio/blob/main/images/doctor's%20appointment.jpg)
+![](/images/doctor's%20appointment.jpg)
 
 ## PROJECT #4: [DigDataProject](https://github.com/DataStance1/DigDataProject)
 Analysis done with SQL to gain insight on the  population of countries in the world.
@@ -36,4 +36,4 @@ Analysis done with SQL to gain insight on the  population of countries in the wo
 * Performing aggragation
 * Visulization with python
 
-![](https://github.com/DataStance1/Caleb_portfolio/blob/main/images/population.jpg)
+![](/images/population.jpg)
