@@ -18,6 +18,8 @@ This case study is the Capstone Project of Google Data Analytics Professional Ce
 * Data wrangling
 * Exploratory Data Analysis
 
+![](https://github.com/DataStance1/Caleb_portfolio/blob/main/images/dog%20picture.jpeg)
+
 ## PROJECT #3: [NoShowAppointment](https://github.com/DataStance1/NoShowAppointment)
 A project done with python to analyze 100k medical data from Brazil to gain insights into some factors that contribute patients keeping to a medical appointment or not.
 * Introduction
@@ -25,9 +27,13 @@ A project done with python to analyze 100k medical data from Brazil to gain insi
 * Exploratory Data Analysis
 * Conclusions
 
+![](https://github.com/DataStance1/Caleb_portfolio/blob/main/images/doctor's%20appointment.jpg)
+
 ## PROJECT #4: [DigDataProject](https://github.com/DataStance1/DigDataProject)
 Analysis done with SQL to gain insight on the  population of countries in the world.
 * Creating tables
 * Joining tables
 * Performing aggragation
 * Visulization with python
+
+![](https://github.com/DataStance1/Caleb_portfolio/blob/main/images/population.jpg)
